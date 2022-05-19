@@ -1,0 +1,59 @@
+#
+tsmc13rf pmos3v symbol
+M25
+M23
+M22
+M21
+M12
+M10
+M11
+M5
+M4
+M3
+M7
+M6
+#
+tsmc13rf nmos3v symbol
+M24
+M20
+M19
+M18
+M17
+M15
+M14
+M9
+M8
+M2
+M1
+M0
+#ISCELL
+basic ipin symbol
+PIN25
+PIN26
+PIN20
+PIN19
+PIN18
+PIN17
+PIN16
+PIN15
+PIN14
+PIN13
+PIN12
+PIN11
+PIN10
+PIN9
+PIN8
+PIN7
+PIN6
+PIN4
+PIN3
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN22
+PIN21
+#ISCELL
+basic iopin symbolr
+PIN24
+PIN23

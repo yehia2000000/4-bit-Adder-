@@ -1,0 +1,16 @@
+#
+tsmc13rf nmos3v symbol
+M1
+#
+tsmc13rf pmos3v symbol
+M0
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN2

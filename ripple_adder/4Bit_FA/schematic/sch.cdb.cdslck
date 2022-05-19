@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      root
+HostName                       localhost.localdomain
+ProcessIdentifier              4475
+ProcessCreationTime_UTC        1652388862
+ProcessCreationTime_Readable   Thu May 12 23:54:22 2022 EEST
+AppIdentifier                  /usr/local/cdstree/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXopen upgrade lock
+FilePathUsedToEditLock         /usr/local/tsmc13/ripple_adder/4Bit_FA/schematic/sch.cdb
+TimeEditLocked                 Thu May 12 23:56:23 2022 EEST
